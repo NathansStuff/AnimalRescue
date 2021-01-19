@@ -1,7 +1,7 @@
 # R1 Overview
 
 ### Purpose
-The purpose of this app is to provide a functional and visually appealing system for animal rescue and foster carers to track the development and health of their animals.
+The purpose of this application is to provide a functional and visually appealing system for animal rescue and foster carers to track the development and health of their animals.
 ### Target Audience
 Animal rescue and Foster carers
 ### Functionality / Features
@@ -17,9 +17,9 @@ Animal rescue and Foster carers
   - Form for logged in users to update weight and record notes
 - Donate button, social links and share buttons
 ### Tech Stack
-**Front-End:** HTML5, CSS3, SCSS, Embedded Ruby, Bootstrap, Javascript, React.js
+**Front-End:** HTML5, CSS3, SCSS, Embedded Ruby, Bootstrap, Javascript, React
 
-**Back-End:** Ruby 2.7.1 - check version, Ruby on Rails 6.0.3.4 - check version, React - version?, Node.js
+**Back-End:** Ruby, Ruby on Rails, Node
 
 **Database:** Postgres
 
@@ -28,3 +28,5 @@ Animal rescue and Foster carers
 **Biz-Tools:** Trello 
 
 **Dev Ops:** GitGithub, VS Code, Bundler, Balsamic, Figma
+
+**Assets/Packaging:** Webpack, Babel, Yarn
