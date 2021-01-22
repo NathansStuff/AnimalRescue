@@ -42,6 +42,12 @@ Animal rescue and Foster carers
 
 ![dataflow diagram](assets/dataflow.png)
 
+# R3 App Architecture Diagram
+
+![architecture diagram](assets/architecture.png)
+
+
+
 # R4 User Stories
 
 ### Development Over Time
