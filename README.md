@@ -38,6 +38,10 @@ Animal rescue and Foster carers
 
 **Assets/Packaging:** Webpack, Babel, Yarn
 
+# R2 Dataflow Diagram
+
+![dataflow diagram](assets/dataflow.png)
+
 # R4 User Stories
 
 ### Development Over Time
