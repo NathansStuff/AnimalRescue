@@ -46,8 +46,6 @@ Animal rescue and Foster carers
 
 ![architecture diagram](assets/architecture.png)
 
-
-
 # R4 User Stories
 
 ### Development Over Time
@@ -73,3 +71,23 @@ As we were then going to be recording all the relevant data about the animals in
 - Want to quickly gain an overview of the different animals that are available for adoption
 - Want to be able to see the relevant details about an animal I'm considering adopting, including behavioural characteristics (eg, gets along with other animals/children)
 - Want to be able to contact the foster carers for more information
+
+# R5 Wireframes
+
+# R6 Planning Methodology
+
+The planning methodology we chose to utilise while building this application is trello. Our board can be found [here](https://trello.com/b/touSZZjx/cat-rescue).
+
+We divided the trello board into three main components:
+
+- Tasks to be done
+- Tasks underway
+- Tasks done
+
+Each member of our team has our own section within the tasks underway component to allow for a clear visual represention of who is doing what at any given moment.
+
+Below are some screenshots of the trello board in action:
+
+![trello 1](assets/trello1.png)
+![trello 2](assets/trello2.png)
+![trello 3](assets/trello3.png)
