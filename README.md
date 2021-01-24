@@ -83,7 +83,7 @@ As we were then going to be recording all the relevant data about the animals in
 ![contact](assets/contact.png)
 ![new pet](assets/newpet.png)
 ![show pet](assets/showpet.png)
-![profile page](assets/profile.png)
+![profile page](assets/Profile.png)
 
 ##### Figma
 
