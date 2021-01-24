@@ -91,7 +91,7 @@ As we were then going to be recording all the relevant data about the animals in
 ![figma homepage 2](assets/home1_figma.png)
 ![figma login](assets/login_figma.png)
 ![fimga signup](assets/signup_figma.png)
-![figma index](assets/index_figma.png)
+![figma index](assets/index_figma.PNG)
 
 # R6 Planning Methodology
 
