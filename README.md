@@ -74,6 +74,25 @@ As we were then going to be recording all the relevant data about the animals in
 
 # R5 Wireframes
 
+##### Wireframes
+
+![index not signed in](assets/indexnotsignedin.png)
+![index signed in](assets/indexsignedin.png)
+![login](assets/Login.png)
+![sign up](assets/signup.png)
+![contact](assets/contact.png)
+![new pet](assets/newpet.png)
+![show pet](assets/showpet.png)
+![profile page](assets/profile.png)
+
+##### Figma
+
+![figma homepage](assets/home_figma.png)
+![figma homepage 2](assets/home1_figma.png)
+![figma login](assets/login_figma.png)
+![fimga signup](assets/signup_figma.png)
+![figma index](assets/index_figma.png)
+
 # R6 Planning Methodology
 
 The planning methodology we chose to utilise while building this application is trello. Our board can be found [here](https://trello.com/b/touSZZjx/cat-rescue).
